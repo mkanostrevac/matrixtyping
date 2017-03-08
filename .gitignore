@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/public/storage
+/public/build/*
+/public/js/*
+/public/css/*
+.idea
+.DS_Store
+*.sublime-*

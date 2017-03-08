@@ -1,0 +1,19 @@
+{
+  "name": "matrixtyping",
+  "version": "0.0.0",
+  "authors": [
+    "Mladen Kanostrevac <mkanostrevac@gmail.com>"
+  ],
+  "description": "matrixtyping",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2"
+  }
+}
